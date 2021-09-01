@@ -1,4 +1,4 @@
-# osu-lazer-android-fix
+# Android osu lazer fix
 Fix the permission error when launching osu lazer on android
 
 Replace OsuGameActivity.cs inside osu-android\osu.Android
